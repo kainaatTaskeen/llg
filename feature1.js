@@ -1,5 +1,5 @@
-function mul(a,b){
-    let multiply = a*b;
-    console.log(multiply)
+function minus(a,b){
+    let mi = a*b;
+    console.log(mi)
 }
-mul(25,90);
+minus(25,90);
