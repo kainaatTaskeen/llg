@@ -1,4 +1,4 @@
-function mul(a,b){
+function mulsadsadas(a,b){
     let multiply = a*b;
     console.log(multiply)
 }
